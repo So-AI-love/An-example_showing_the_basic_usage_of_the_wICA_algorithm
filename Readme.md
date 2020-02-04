@@ -11,14 +11,19 @@ http://www.mat.ucm.es/~vmakarov/index.html
 
 ----------------
 
-Deploying a code application couldn't be easier:
+## How to run it:
 
-    1 have conected to internet and run this file in matlab Consule.
+     have connected to internet and run this file in Matlab Consul.
     
 
 options:
        you could edit the `%% Load test data` part of **EEG_IWCA.m** file and change the EEG source files
 
+Matlab auto published files are accessible here:
+
+https://matlab.mathworks.com/users/mwa0000017429219/Published/EEG_IWCA/EEG_IWCA.pdf
+
+https://matlab.mathworks.com/users/mwa0000017429219/Published/EEG_IWCA/index.html
 
 ------------------------
 
