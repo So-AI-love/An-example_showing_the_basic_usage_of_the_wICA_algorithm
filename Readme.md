@@ -13,13 +13,17 @@ http://www.mat.ucm.es/~vmakarov/index.html
 
 ## How to run it:
 
-     have connected to internet and run this file in Matlab Consul.
-    
+##### 1-downlaod it by Browser or :
 
-options:
+          `git clone https://github.com/So-AI-love/An-example_showing_the_basic_usage_of_the_wICA_algorithm'
+          
+##### 2- by connecting to internet,add the **EEG_IWCA.m** file to matlab path and run this file in Matlab Consul.
+     
+     
+### options:
        you could edit the `%% Load test data` part of **EEG_IWCA.m** file and change the EEG source files
 
-Matlab auto published files are accessible here:
+## Matlab auto published files are accessible here:
 
 https://matlab.mathworks.com/users/mwa0000017429219/Published/EEG_IWCA/EEG_IWCA.pdf
 
